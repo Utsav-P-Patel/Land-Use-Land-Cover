@@ -1,1 +1,1 @@
-# LNAD-USE-LAND-COVER
+# Land-Use-Land-Cover
